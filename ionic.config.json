@@ -1,6 +1,6 @@
 {
   "name": "sidemenu",
-  "app_id": "",
+  "app_id": "8bbac969",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
